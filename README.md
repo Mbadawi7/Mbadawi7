@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Maged Badawi
 
-<!--
-**Mbadawi7/Mbadawi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Multidisciplinary Engineer with background in:
+- 🧠 Biomedical Engineering
+- ⚡ Electrical & Embedded Systems
+- 🤖 AI and Machine Learning (Medical Focus)
 
-Here are some ideas to get you started:
+💼 Currently at Siemens Healthineers  
+🎓 Master's student @ FAU Erlangen-Nürnberg (Medical Image & Data Processing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [My Portfolio Website](https://mbadawi7.github.io/Portfolio)
+
+📫 [LinkedIn](https://www.linkedin.com/in/maged-b-9b149513b) • [GitHub](https://github.com/Maged598) • [XING]([https://github.com/Maged598](https://www.xing.com/profile/Maged_Badawi))
+
+---
+
+### 🛠️ Technologies I Use:
+- Python, MATLAB, C/C++, C#
+- Azure DevOps, Power BI, SQL
+- Embedded Systems, Medical Imaging
