@@ -13,6 +13,6 @@
 ---
 
 ### 🛠️ Technologies I Use:
-- Python, MATLAB, C/C++, C#
+- Python, MATLAB, C/C++
 - Azure DevOps, Power BI, SQL
 - Embedded Systems, Medical Imaging
