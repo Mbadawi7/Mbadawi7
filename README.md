@@ -5,8 +5,6 @@
 - ⚡ Electrical & Embedded Systems
 - 🤖 AI and Machine Learning (Medical Focus)
 
-💼 Currently at Siemens Healthineers  
-🎓 Master's student @ FAU Erlangen-Nürnberg (Medical Image & Data Processing)
 
 🔗 [My Portfolio Website](https://mbadawi7.github.io/Portfolio)
 
